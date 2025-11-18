@@ -1,0 +1,233 @@
+2025-11-19 03:26:55,759 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:26:55,760 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:26:55,760 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:26:55,761 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:26:55,761 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:26:55,762 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:26:55,763 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:26:55,763 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:26:55,764 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:26:55,765 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:26:55,765 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:26:55,766 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:26:55,767 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:26:55,791 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:26:55,792 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:26:55,792 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:26:55,793 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:26:55,794 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:26:55,798 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:26:55,799 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:26:55,799 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:26:55,803 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:26:55,804 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:26:55,808 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:26:55,808 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:26:55,808 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:26:55,814 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:26:55,815 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:26:55,818 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:26:55,819 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:26:55,819 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:26:55,823 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:26:55,825 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:26:55,829 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:26:55,829 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:26:55,829 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:26:55,836 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:26:55,837 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:26:55,841 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:26:55,841 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:26:55,841 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:26:55,842 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:29:20,750 - file_integrity_monitor - INFO - [*] Initializing FIM baseline using config: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/config/fim_config.yaml
+2025-11-19 03:29:20,750 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/data/fim_baseline.db
+2025-11-19 03:29:20,759 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/data/fim_baseline.db
+2025-11-19 03:29:20,760 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 2 include paths, 2 exclude paths.
+2025-11-19 03:29:20,760 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/config/fim_config.yaml
+2025-11-19 03:29:20,760 - file_integrity_monitor - INFO - [*] Creating new FIM baseline...
+2025-11-19 03:29:20,760 - file_integrity_monitor - WARNING - [WARN] Include path '/home/user/documents' does not exist. Skipping.
+2025-11-19 03:29:20,766 - file_integrity_monitor - INFO - [+] Baseline created with 2 files.
+2025-11-19 03:29:20,766 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:29:27,714 - file_integrity_monitor - INFO - [*] Checking file integrity using config: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/config/fim_config.yaml and database: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/data/fim_baseline.db
+2025-11-19 03:29:27,714 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/data/fim_baseline.db
+2025-11-19 03:29:27,714 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/data/fim_baseline.db
+2025-11-19 03:29:27,715 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 2 include paths, 2 exclude paths.
+2025-11-19 03:29:27,715 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/config/fim_config.yaml
+2025-11-19 03:29:27,715 - file_integrity_monitor - INFO - [*] Checking file integrity against baseline...
+2025-11-19 03:29:27,715 - file_integrity_monitor - INFO - [+] Integrity check complete.
+2025-11-19 03:29:27,716 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:31:55,997 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:31:55,997 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:31:55,998 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:31:55,998 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:31:55,999 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:31:55,999 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:31:56,000 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:31:56,000 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:31:56,001 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:31:56,001 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:31:56,002 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:31:56,003 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:31:56,004 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:31:56,008 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:31:56,008 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:31:56,009 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:31:56,011 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:31:56,012 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:31:56,015 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:31:56,016 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:31:56,016 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:31:56,020 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:31:56,021 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:31:56,024 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:31:56,025 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:31:56,025 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:31:56,029 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:31:56,030 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:31:56,034 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:31:56,034 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:31:56,034 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:31:56,038 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:31:56,040 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:31:56,044 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:31:56,044 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:31:56,044 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:31:56,051 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:31:56,052 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:31:56,056 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:31:56,056 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:31:56,056 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:31:56,057 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:11,467 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:32:11,467 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:32:11,468 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:11,469 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:32:11,469 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:32:11,470 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:11,471 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:32:11,471 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:32:11,471 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:11,472 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:32:11,472 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:32:11,473 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:11,474 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:11,478 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:11,478 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:32:11,478 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:32:11,480 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:11,481 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:11,484 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:11,485 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:32:11,485 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:32:11,488 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:11,490 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:11,494 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:11,494 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:32:11,494 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:32:11,499 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:11,500 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:11,504 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:11,504 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:32:11,504 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:32:11,508 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:11,509 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:11,513 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:11,513 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:32:11,513 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:32:11,521 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:11,523 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:11,527 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:11,528 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:32:11,528 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:32:11,529 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:42,169 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:32:42,169 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:32:42,171 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:42,172 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:32:42,172 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:32:42,173 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:42,174 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:32:42,174 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:32:42,174 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:42,175 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:32:42,175 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:32:42,176 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:42,178 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:42,181 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:42,182 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:32:42,182 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:32:42,184 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:42,186 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:42,189 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:42,190 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:32:42,190 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:32:42,194 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:42,195 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:42,198 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:42,199 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:32:42,199 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:32:42,203 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:42,204 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:42,208 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:42,208 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:32:42,208 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:32:42,212 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:42,214 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:42,218 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:42,218 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:32:42,218 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:32:42,225 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:32:42,228 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:42,231 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:32:42,231 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:32:42,231 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:32:42,233 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:33:00,378 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:33:00,379 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:33:00,380 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:33:00,380 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:33:00,380 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:33:00,381 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:33:00,382 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:33:00,382 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:33:00,383 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:33:00,383 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:33:00,383 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:33:00,384 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:33:00,385 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:33:00,385 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:33:00,386 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:33:00,386 - file_integrity_monitor - INFO - [*] FIM Database connection opened to :memory:
+2025-11-19 03:33:00,387 - file_integrity_monitor - INFO - [*] FIM Database initialized at :memory:
+2025-11-19 03:33:00,387 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:33:00,388 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:33:00,392 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:33:00,393 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:33:00,393 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:33:00,394 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:33:00,395 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:33:00,398 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:33:00,399 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:33:00,399 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:33:00,403 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:33:00,404 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:33:00,407 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:33:00,408 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:33:00,408 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:33:00,411 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:33:00,412 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:33:00,416 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:33:00,416 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:33:00,416 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:33:00,423 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:33:00,424 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:33:00,427 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:33:00,428 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:33:00,428 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:33:00,434 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
+2025-11-19 03:33:00,436 - file_integrity_monitor - INFO - [*] FIM Database connection opened to /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:33:00,439 - file_integrity_monitor - INFO - [*] FIM Database initialized at /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/test_fim.db
+2025-11-19 03:33:00,440 - file_integrity_monitor - INFO - [*] Loaded FIM configuration: 1 include paths, 1 exclude paths.
+2025-11-19 03:33:00,440 - file_integrity_monitor - INFO - [*] FIM initialized. Monitoring config from: /home/duffer/Gemini/Project_1/038_file_integrity_monitor/test_fim_monitor_dir/fim_config.yaml
+2025-11-19 03:33:00,441 - file_integrity_monitor - INFO - [*] FIM Database connection closed.
