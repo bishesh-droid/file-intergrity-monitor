@@ -49,7 +49,7 @@ def init_baseline(config, database, force):
 @cli.command()
 @click.option('--config', '-c', type=click.Path(exists=True), default=FIM_CONFIG_PATH,
               help=f'Path to the FIM configuration YAML file (default: {FIM_CONFIG_PATH}).')
-@click.option('--database', '-d', type=click.Path(exists=True), default=DATABASE_PATH,
+@click.option('--database', '-d', type=click.Path(), default=DATABASE_PATH,
               help=f'Path to the SQLite baseline database (default: {DATABASE_PATH}).')
 def check(config, database):
     """
@@ -92,7 +92,7 @@ def check(config, database):
         sys.exit(1)
 
 @cli.command()
-@click.option('--database', '-d', type=click.Path(exists=True), default=DATABASE_PATH,
+@click.option('--database', '-d', type=click.Path(), default=DATABASE_PATH,
               help=f'Path to the SQLite baseline database (default: {DATABASE_PATH}).')
 def status(database):
     """
